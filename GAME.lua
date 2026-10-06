@@ -44,11 +44,11 @@
 local CONFIG = {
 
 	-- NO pongas localhost aquí.
-	UPDATE_MANAGER_URL = "",
+	UPDATE_MANAGER_URL = "UR DOMAIN HERE",
 
 	-- Tiene que ser exactamente el mismo secreto
 	-- que tienes en el .env de Node.js.
-	UPDATE_MANAGER_SECRET = "GY3NH4CUUFJD23OD2EHLF'23RÑ322C3RYHC23WSDUFUYWTR2JIYTGBUY2EDYUGF2W  UFWR YUGWF GYWEF UYWFFW  FDHVG WEFHUY3 G8YWHDJHWGECJC2H3RUIC3werg_v",
+	UPDATE_MANAGER_SECRET = "THE SECRE ON THE .JS FILE",
 
 	-- Cada cuánto consulta el servidor al Node.js.
 	CHECK_INTERVAL = 15,
