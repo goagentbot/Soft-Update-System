@@ -1,0 +1,12 @@
+{
+  "name": "roblox-opencloud-update-manager",
+  "version": "1.0.0",
+  "description": "Servicio Node.js para consultar la versión publicada de un Roblox Place mediante Open Cloud.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
