@@ -46,3 +46,4 @@ print("Version on the web is " .. version_setup)
 if version_s < version_setup then
     print("Warning: The version of the script is different from the version on the web. Please update the script to the latest version.")
 end
+
